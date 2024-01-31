@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shuvo Karmaker
 #### Tech Researcher, Innovator and Entrepreneur
-![Tech Researcher, Innovator and Entrepreneur](https://en.wikialpha.org/mediawiki/images/4/4b/Shuvo_Karmaker.jpeg)
+![Tech Researcher, Innovator and Entrepreneur]
 
 From Bangladesh, First learn then remove the 'L' from it. 
 Learn = Earn
